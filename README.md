@@ -26,21 +26,3 @@ view/index.html
 
 em um navegador (Chrome, Edge, etc).
 
-Estrutura do Projeto
-Exercicio-2-de-modelagem-de-dados/
-│
-├── main.py
-│
-├── model/
-│   ├── cliente.py
-│   ├── conta.py
-│   └── historico.py
-│
-├── repository/
-│   └── banco_dados.py
-│
-├── service/
-│   └── banco_service.py
-│
-└── view/
-    └── index.html
